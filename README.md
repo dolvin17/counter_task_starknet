@@ -1,4 +1,4 @@
-This repository contains a simple StarkNet contract implementing a basic counter functionality.
+## This repository contains a simple StarkNet contract implementing a basic counter functionality.
 it was builded attending BUILDH3R | Interactive Learn & Earn Workshops
 
 This was provided by Gnana Lakshmi - Starknet DevRel. 
